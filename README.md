@@ -44,9 +44,6 @@ New MT systems utilize large language models (LLMs) and multimodal AI to offer r
 ## Conclusion
 Machine Translation has developed from rule-based systems to AI-powered models with near-human translation capabilities. Future development will be towards enhancing cultural sensitivities, context sensitivity, and real-time translation capabilities.
 
-## License
-This is an open-source project under the MIT License.
-
 ## Contributing
 Contributions are welcome! Feel free to raise pull requests or open issues.
 
