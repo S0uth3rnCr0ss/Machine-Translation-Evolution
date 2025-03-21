@@ -46,6 +46,3 @@ Machine Translation has developed from rule-based systems to AI-powered models w
 
 ## Contributing
 Contributions are welcome! Feel free to raise pull requests or open issues.
-
-## Contact
-For any questions, contact [Your Name] at [Your Email].
